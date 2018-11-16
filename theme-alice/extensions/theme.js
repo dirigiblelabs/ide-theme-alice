@@ -11,6 +11,7 @@
 exports.getTheme = function() {
 	return {
 		'id': 'alice',
-		'module': 'theme-alice'
+		'module': 'theme-alice',
+		'name': 'Alice'
 	};
 };
